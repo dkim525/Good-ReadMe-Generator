@@ -1,7 +1,7 @@
-# dax
+# Good-ReadMe-Generator
   ## Description
   ![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)<br/>
-  this is dax's coding project, (he is my dog)<br/>
+  This is a readme file generator, it has prompts that you can walk though to desribe how this project works. Video demo: https://drive.google.com/file/d/1Lril1BNDVut10Z2jFD-DqPl0r-aTGvB_/view?usp=sharing<br/>
   
   ## Table of Contents
   1. [Installation](#Installation)
@@ -13,11 +13,11 @@
   
   ## Installation
   ```
-  npm install dax
+  to install use npm i 
   ```
   ## Usage
   ```
-  node dax
+  to use node index.js
   ```
   ## License
   
@@ -29,5 +29,5 @@
   npm run test
   ## Questions
   contact me with any questions or concerns at:
-* [github:](https://github.com/dax)
-* email: dax@aol.com
+* [github:](https://github.com/dkim525)
+* email: dkim525@wisc.edu
