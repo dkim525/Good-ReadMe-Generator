@@ -1,0 +1,25 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davis",
+  "license": "MIT",
+  "dependencies": {
+    "gitignore": "^0.6.0",
+    "inquirer": "^6.5.2",
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkim525/Good-ReadMe-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dkim525/Good-ReadMe-Generator/issues"
+  },
+  "homepage": "https://github.com/dkim525/Good-ReadMe-Generator#readme"
+}
